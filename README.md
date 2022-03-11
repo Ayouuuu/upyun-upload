@@ -1,4 +1,4 @@
-# qiniu-upload
+# upyun-upload
 本脚本可以一键上传目录中的文件到又拍云存储,建议使用`Python3`运行,且需要安装扩展
 ```shell
 pip install -r requirements.txt
